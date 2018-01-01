@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="uidai-biometric-integration-api-1.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/uidai-biometric-integration-api/target/uidai-biometric-integration-api-1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
