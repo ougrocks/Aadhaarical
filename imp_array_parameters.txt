@@ -1,0 +1,13 @@
+$array[kyc][photo] --> PHOTO
+$array[kyc][aadhaar-id] --> AADHAAR NUMBER
+$array[kyc][poi][name] --> NAME
+$array[kyc][poi][dob] --> DOB
+$array[kyc][poi][gender] --> GENDER
+$array[kyc][poa][co] --> CARE OFF {ADDRESS}
+$array[kyc][poa][street] --> STREET
+$array[kyc][poa][house] --> HOUSE NUMBER
+$array[kyc][poa][vtc] --> AGRA
+$array[kyc][poa][dist] --> DISTRICT AGRA
+$array[kyc][poa][state] --> UP
+$array[kyc][poa][pc] --> PINCODE
+$array[kyc][poa][local-data][success] = 1 FOR SUCCESS
